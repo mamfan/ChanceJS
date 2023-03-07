@@ -1,0 +1,9 @@
+* {
+    transition: .4s;
+}
+
+#chance-item {
+    width: 100px;
+    height: 100px;
+    background: #ff0000;
+}
